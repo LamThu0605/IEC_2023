@@ -38,10 +38,10 @@ setInterval(function () {
         }
     }
     if (counter < 10) {
-        time = "0" + counter + ":30:41 | 2022-12-11";
+        time = "0" + counter + ":30:41 | 2023-04-25";
     }
     else {
-        time = counter + ":30:41 | 2022-12-11";
+        time = counter + ":30:41 | 2023-04-25";
     }
     
     var do1 = Math.floor(Math.random() * (4)) + 4;

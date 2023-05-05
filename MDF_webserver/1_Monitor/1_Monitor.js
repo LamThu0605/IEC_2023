@@ -49,11 +49,11 @@ setInterval(function () {
     var temp1 = Math.floor(Math.random() * (6)) + 25;
     var wl1 = Math.floor(Math.random() * (11)) + 70;
 
-    update(ref(db, 'Slave_1/'), { timeUpdate: time});
-    update(ref(db, 'Slave_1/DO'), { doVal: do1});
-    update(ref(db, 'Slave_1/PH'), { phVal: ph1});
-    update(ref(db, 'Slave_1/Temp'), { tempVal: temp1});
-    update(ref(db, 'Slave_1/WL'), { wlVal: wl1});
+//     update(ref(db, 'Slave_1/'), { timeUpdate: time});
+//     update(ref(db, 'Slave_1/DO'), { doVal: do1});
+//     update(ref(db, 'Slave_1/PH'), { phVal: ph1});
+//     update(ref(db, 'Slave_1/Temp'), { tempVal: temp1});
+//     update(ref(db, 'Slave_1/WL'), { wlVal: wl1});
     
     counter++;
 }, 3000);

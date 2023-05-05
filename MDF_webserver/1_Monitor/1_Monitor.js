@@ -6,14 +6,14 @@ const scriptURL = 'https://script.google.com/macros/s/AKfycby9DIGayNI64yFVIIZYEF
 
 // Cau hinh firebase
 const firebaseConfig = {
-    apiKey: "AIzaSyD9wUB5zDfBRmD6OztJkmlcZkb7qDCk8F8",
-    authDomain: "iec-2022.firebaseapp.com",
-    databaseURL: "https://iec-2022-default-rtdb.asia-southeast1.firebasedatabase.app",
-    projectId: "iec-2022",
-    storageBucket: "iec-2022.appspot.com",
-    messagingSenderId: "843876487746",
-    appId: "1:843876487746:web:47e3e49e4a39e79e6413db",
-    measurementId: "G-2REZV90GHL"
+    apiKey: "AIzaSyD-Kxicm-mAOMpZTpulnpU8_hcGW5QMBU8",
+    authDomain: "mdfteam-ctu.firebaseapp.com",
+    databaseURL: "https://mdfteam-ctu-default-rtdb.firebaseio.com",
+    projectId: "mdfteam-ctu",
+    storageBucket: "mdfteam-ctu.appspot.com",
+    messagingSenderId: "178473918283",
+    appId: "1:178473918283:web:5eb6f557bda59a385dd2ce",
+    measurementId: "G-0ES8P44CRV"
   };
 
 // Khai bao bien  
